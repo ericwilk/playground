@@ -11,3 +11,9 @@
 * There could also be a list of numbers.
 
 * fixedRate in the sceduler might not be ideal. If requests take longer than 30 seconds threads could pile up. fixedDelay might be more appropriate.
+
+* Sending a message when catching IOException could cause a lot of irrelevant text messages. The problem isn't necessarily on the website you are chekcing. It might make more sense to give this a limit.
+
+
+
+... I am sure there are more; I spun this up in a few hours. The basic functionality is there, however.
