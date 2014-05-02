@@ -4,9 +4,9 @@
 
 * TERRIBLE UI but I see no reason to spend a lot of time on that since this was just toying around.
 
-* I do not like all the statics. I guess this really depends on the use case, but if multiple users are using this application simultaneously it could be a problem. If that were the case however, it would need to be changed to support multiple websites, credentials, etc. That should not be too hard to implement.
+* I do not like all the statics. I guess this really depends on the use case, but if multiple users are using this application simultaneously it could be a problem. If that were the case however, it would need to be changed to support multiple websites, credentials, etc. (numbers and login data) if only one user is accessing the app at a time. This could use a persistence layer ans spring security by implemnting SSL and encrypting the credentials and hashing the passwords. This could be extended to let users monitor multiple websites with different contact information, etc.
 
-* Probably should use properties file for the HealthCheckData relevant to Twilio settings (numbers and login data) if only one user is accessing the app at a time. This could also be refactored to use a persistence layer ans spring security by implemnting SSL and encrypting the keys and hashing the passwords. This could be extended to let uses monitor multiple websites with different contact information, etc.
+* Probably should use properties file for the HealthCheckData relevant to Twilio settings if it is used by only one user.
 
 * There could also be a list of numbers.
 
