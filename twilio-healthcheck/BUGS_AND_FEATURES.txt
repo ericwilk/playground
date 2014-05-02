@@ -1,3 +1,5 @@
+* Unit tests
+
 * You can't change the website through the UI and get it to monitor another one without refreshing the app. The controller needs to check if the previous value of website is null and if not, reset messageSent to false..
 
 * public void checkWebsiteIsRunning() should probably be private. I do not think public is required for @Scheduled, only a void method in a scanned class.
