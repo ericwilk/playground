@@ -1,4 +1,4 @@
-* You can't change the website through the UI and get it to monitor another one without refreshing the app. The scheduler needs to check if the previous value of website is null and reset messageSent to false..
+* You can't change the website through the UI and get it to monitor another one without refreshing the app. The controller needs to check if the previous value of website is null and if not, reset messageSent to false..
 
 * public void checkWebsiteIsRunning() should probably be private. I do not think public is required for @Scheduled, only a void method in a scanned class.
 
@@ -6,3 +6,8 @@
 
 * I do not like all the statics. I guess this really depends on the use case, but if multiple users are using this application simultaneously it could be a problem. If that were the case however, it would need to be changed to support multiple websites. That should not be too hard to implement.
 
+* Probably should use properties file for the HealthCheckData relevant to Twilio settings (numbers and login data) if only one user is accessing the app at a time.
+
+* There could also be a list of numbers.
+
+* fixedRate in the sceduler might not be ideal. If requests take longer than 30 seconds threads could pile up. fixedDelay might be more appropriate.
