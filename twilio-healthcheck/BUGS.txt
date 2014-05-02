@@ -6,7 +6,7 @@
 
 * I do not like all the statics. I guess this really depends on the use case, but if multiple users are using this application simultaneously it could be a problem. If that were the case however, it would need to be changed to support multiple websites, credentials, etc. That should not be too hard to implement.
 
-* Probably should use properties file for the HealthCheckData relevant to Twilio settings (numbers and login data) if only one user is accessing the app at a time.
+* Probably should use properties file for the HealthCheckData relevant to Twilio settings (numbers and login data) if only one user is accessing the app at a time. This could also be refactored to use a persistence layer ans spring security by implemnting SSL and encrypting the keys and hashing the passwords. This could be extended to let uses monitor multiple websites with different contact information, etc.
 
 * There could also be a list of numbers.
 
