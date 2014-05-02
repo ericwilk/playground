@@ -14,7 +14,7 @@
 
 * A timeout should be added.
 
-* Sending a message when catching IOException could cause a lot of irrelevant text messages. The problem isn't necessarily on the website you are chekcing. It might make more sense to give this a minimum value or check another outbound connection we know that works (possibly on the same oute).
+* Sending a message when catching IOException could cause a lot of irrelevant text messages. The problem isn't necessarily on the website you are chekcing. It might make more sense to give this a minimum value or check another outbound connection we know that works (possibly on the same route).
 
 
 
