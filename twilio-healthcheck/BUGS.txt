@@ -2,7 +2,7 @@
 
 * public void checkWebsiteIsRunning() should probably be private. I do not think public is required for @Scheduled, only a void method in a scanned class.
 
-* TERRIBLE UI but I see no reason to spend a lot of time of that since this was just toying around.
+* TERRIBLE UI but I see no reason to spend a lot of time on that since this was just toying around.
 
-* I do not like all the statics. I guess this depends on the use case, but if multiple users are using this application simultaneously it could be a problem. If that were the case however, it would need to be changed to support multiple websites. That should not be too hard to implement.
+* I do not like all the statics. I guess this really depends on the use case, but if multiple users are using this application simultaneously it could be a problem. If that were the case however, it would need to be changed to support multiple websites. That should not be too hard to implement.
 
