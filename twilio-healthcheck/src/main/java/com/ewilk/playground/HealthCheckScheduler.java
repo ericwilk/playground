@@ -34,6 +34,7 @@ public class HealthCheckScheduler{
 				}
 			} catch ( IOException e ) {
 				sendTwilioMessage();
+				messageSent = true;
 			}
 		}
 	}
