@@ -35,7 +35,7 @@ Wow, really?
 
 There are some damages but not too hard to repair... I mean hack.
 
-I put the screen and touchpad digitizer aside for when the better model comes (it has wifi, I also got a remote keypad I can use through the IR sensor but it's not getting along with my USB wifi dongle and a driver will probably have to be compiled for the ARM11 architecure. It didn't seem like the vendor had the source).
+I put the screen and touchpad digitizer aside for when the better model comes (it has wifi, I also got a remote keypad I can use through the IR sensor but it's not getting along with my USB wifi dongle and a driver will probably have to be compiled for the ARM11 architecure. It didn't seem like the vendor had the source. Or maybe steal one from Raspberry?).
 
 By the way, the correct solution is probably "be patient and wait for the right tools" but that's not QUITE as much fun ;3
 
