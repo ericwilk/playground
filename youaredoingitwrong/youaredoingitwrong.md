@@ -7,7 +7,7 @@ Things are so small these days! I need a microscope to even see components. Back
 
 Case in point:
 
-I bought a Banana Pi and a little clear case to put it in. The case was rather cheap plastic so it fell apart, and me (being a bit of a hack) just superglued it back together. I later obtained a 5" LCD panel, and not knowing how fragile the FPC socket was I tried opening it with a precision screwdriver and it broke.
+I bought a Banana Pi and a little clear case to put it in. The case was rather cheap plastic so it fell apart, and me (being a bit of a hack) just superglued it back together. I later obtained a 5" LCD panel, and not knowing how fragile the FPC socket was I tried opening it with a precision screwdriver through the slot in the case I could no longer take apart, and it broke.
 
 Well, "okay," I thought. "I can just wedge some tape or something in there to hold the ribbon cable in place." This "sort-of" worked, but ended up with a flickering panel since it would move around. So of course, I decide to use super glue. This acually worked GREAT until I wanted to remove the ribbon cable. NOT a good idea...
 
