@@ -1,7 +1,9 @@
 The Indestructible Banana, or... How to NOT Do THINGS
 =====================================================
 
-Things are so small these days! These days I seem to need a microscope to even see everything. Back when I was a child I could easily desolder components to repair or make things and get burned and electrocuted in the process. I was in early Grade School and didn't have the best judgement. Well, maybe I still don't.
+Things are so small these days! I need a microscope to even see components. Back when I was a child I could easily desolder components to repair or make things and get burned and electrocuted in the process. I was in early Grade School and didn't have the best judgement. Well, maybe I still don't ;)
+
+Case in point:
 
 I bought a Banana Pi and a little clear case to put it in. The case was rather cheap plastic so it fell apart, and me (being a bit of a hack) just superglued it back together. I later obtained a 5" LCD panel, and not knowing how fragile the FPC socket was I tried opening it with a precision screwdriver and it broke.
 
