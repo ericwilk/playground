@@ -9,7 +9,7 @@ I bought a Banana Pi and a little clear case to put it in. The case was rather c
 
 Well, "okay," I thought. "I can just wedge some tape or something in there to hold the ribbon cable in place." This "sort-of" worked, but ended up with a flickering panel since it would move around. So of course, I decide to use super glue. This acually worked GREAT until I wanted to remove the ribbon cable. NOT a good idea...
 
-![fail... fail... fail...](https://github.com/ericwilk/playground/tree/master/youaredoingitwrong/IMG_0494.JPG "Evidence of a bad idea gone wrong.")
+![fail... fail... fail...](https://raw.githubusercontent.com/ericwilk/playground/master/youaredoingitwrong/IMG_0494.JPG "Evidence of a bad idea gone wrong.")
 
 I think I was going to save the LCD for the newer Banana Pro I'm getting; I also got a touch-screen digitizer from some GPS device from China for around $5 to add to it.
 
@@ -19,15 +19,15 @@ DREMEL TOOL, GO!
 
 (Sometimes I go just *a bit* overboard.)
 
-![more fail...](https://github.com/ericwilk/playground/tree/master/youaredoingitwrong/IMG_0495.JPG "Destruction.")
+![more fail...](https://raw.githubusercontent.com/ericwilk/playground/master/youaredoingitwrong/IMG_0495.JPG "Destruction.")
 
-![yeah, this looks good](https://github.com/ericwilk/playground/tree/master/youaredoingitwrong/IMG_0496.JPG "More destruction.")
+![yeah, this looks good](https://raw.githubusercontent.com/ericwilk/playground/master/youaredoingitwrong/IMG_0496.JPG "More destruction.")
 
-![oh, wow](https://github.com/ericwilk/playground/tree/master/youaredoingitwrong/IMG_0498.JPG "Okay, this CAN NOT possibly work, anymore.")
+![oh, wow](https://raw.githubusercontent.com/ericwilk/playground/master/youaredoingitwrong/IMG_0498.JPG "Okay, this CAN NOT possibly work, anymore.")
 
 Well, just for fun I put everything back together, changed the file on the boot partition to point to HDMI and plugged everything in. You know... Just to see what would happen.
 
-![It's ALIIIIIVE!](https://github.com/ericwilk/playground/tree/master/youaredoingitwrong/IMG_0500.JPG "Just like the Energizer bunny.")
+![It's ALIIIIIVE!](https://raw.githubusercontent.com/ericwilk/playground/master/youaredoingitwrong/IMG_0500.JPG "Just like the Energizer bunny.")
 
 Wow, really?
 
