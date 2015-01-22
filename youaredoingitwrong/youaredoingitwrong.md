@@ -1,4 +1,4 @@
-The Indestructible Banana, or... How to NOT Do THINGS
+The Indestructible Banana, or... How to NOT Do Things
 =====================================================
 
 Things are so small these days! I need a microscope to even see components. Back when I was a child I could easily desolder components to repair or make things and get burned and electrocuted in the process. I was in early Grade School and didn't have the best judgement. Well, maybe I still don't ;)
