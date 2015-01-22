@@ -23,13 +23,13 @@ DREMEL TOOL, GO!
 
 ![more fail...](https://raw.githubusercontent.com/ericwilk/playground/master/youaredoingitwrong/IMG_0495.JPG "Destruction.")
 
-![yeah, this looks good](https://raw.githubusercontent.com/ericwilk/playground/master/youaredoingitwrong/IMG_0496.JPG "More destruction.")
+![yeah, this looks good](https://raw.githubusercontent.com/ericwilk/playground/master/youaredoingitwrong/IMG_0496.JPG "oops.")
 
 ![oh, wow](https://raw.githubusercontent.com/ericwilk/playground/master/youaredoingitwrong/IMG_0498.JPG "Okay, this CAN NOT possibly work, anymore.")
 
 Well, just for fun I put everything back together, changed the file on the boot partition to point to HDMI and plugged everything in. You know... Just to see what would happen.
 
-![It's ALIIIIIVE!](https://raw.githubusercontent.com/ericwilk/playground/master/youaredoingitwrong/IMG_0500.JPG "Just like the Energizer bunny.")
+![It's ALIIIIIVE!](https://raw.githubusercontent.com/ericwilk/playground/master/youaredoingitwrong/IMG_0500.JPG "It's THE ENERGIZER BUNNY.")
 
 Wow, really?
 
