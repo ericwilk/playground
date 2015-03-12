@@ -35,7 +35,7 @@ Wow, really? IT'S STILL ALIVE???
 
 (There are actually a few damages but not too hard to repair... I mean hack, or I may try to repurpose one of these micro wifi cards I'm seeing sell for a few bucks each. The only thing affected is the RJ45 socket, or rather the connection to it on the board. It looks like a resistor may be damaged as well, which isn't good... I'll have to reference the schematics but that would be an easy one to fix.)
 
-I put the screen and touchpad digitizer aside for when the better model comes (it has wifi, I also got a remote keypad I can use through the IR sensor but it's not getting along with my USB wifi dongle and a driver will probably have to be compiled for the ARM11 architecure. It didn't seem like the vendor had the source. Or maybe steal one from Raspberry?).
+I put the screen and touchpad digitizer aside for when the better model comes (it has wifi, I also got a remote keypad I can use through the IR sensor but it's not getting along with my USB wifi dongle and a driver will probably have to be compiled for the RISC architecure. It didn't seem like the vendor had the source. Or maybe steal one from Raspberry?).
 
 By the way, the correct solution is probably "be patient and wait for the right tools" but that's not QUITE as much fun ;3
 
