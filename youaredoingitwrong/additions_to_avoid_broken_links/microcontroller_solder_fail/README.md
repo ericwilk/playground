@@ -7,7 +7,7 @@ I sure see solder, unless they mean like.. Reballing. Which is wait... Solder.
 
 Verbatim, it's "No solder required."
 
-Those pins aren't going to magically attach themselves and conduct (well maybe if you tilt the board at the right angle and never move it, preferably in a sealed container without tempature fluctuations that doesn't ever move and maeby gas with N2 for an inert atmosphere. You get the idea).
+Those pins aren't going to magically attach themselves and conduct (well maybe if you tilt the board at the right angle and never move it, preferably in a sealed container without tempature fluctuations that doesn't ever move and flush with N2 for an inert atmosphere. You get the idea).
 
 This makes no sense.
 
