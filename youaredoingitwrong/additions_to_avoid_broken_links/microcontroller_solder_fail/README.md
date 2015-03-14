@@ -26,4 +26,6 @@ Pretty complicated, I know.
 
 Unless I'm missing something, in which case tell me.
 
-Only thing I can think of is there's enough there but I've never seen that be the case :V
+Only thing I can think of is there's enough there but I've never seen that be the case.
+
+Oh wait. That's soldering :V
