@@ -22,4 +22,4 @@ Even though I'm sure the alloy process it fine that's still like.. soldering :V
 
 Pretty complicated, I know.
 
-Unless I'm missing something, in which case I want to know (but I don't think I am).
+Unless I'm missing something, in which case tell me.
