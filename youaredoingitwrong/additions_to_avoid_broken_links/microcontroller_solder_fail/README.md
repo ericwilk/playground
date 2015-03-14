@@ -9,8 +9,6 @@ Just for the fun of it I had a .dia and PNG those who can't read them (there is 
 
 This is just in case it gets compliated :V <-- (implying arcasm)
 
-# does this take relative paths? They have a seperate media asset server.
-
 ![.dia File](solder_free_with_solfer.dia "Dia moedling diagram.")
 ![.pdf File](solder_free_with_solfer.pdf "Dia moedling diagram.")
 
