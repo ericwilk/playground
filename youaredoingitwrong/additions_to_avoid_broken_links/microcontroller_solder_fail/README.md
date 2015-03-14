@@ -13,7 +13,7 @@ This makes no sense.
 
 Just for the fun of it I had a .dia and PNG those who can't read them (there is freeware, at least w/ Linux).
 
-This is just in case it gets compliated :V <-- (implying arcasm)
+This is just in case it gets compliated :V <-- (implying sarcasm)
 
 ![.dia File](solder_free_with_solfer.dia "Dia moedling diagram.")
 ![.pdf File](solder_free_with_solfer.pdf "Dia moedling diagram.")
