@@ -1,9 +1,11 @@
 Am I missing something?
 ==========
 
-I sure see solder, unless they mean like.. Reballing.
+http://www.ebay.com/itm/321502102711
 
-Verbatim, it's "No dolder required."
+I sure see solder, unless they mean like.. Reballing. Which is wait... Solder.
+
+Verbatim, it's "No solder required."
 
 Those pins aren't going to magically attach themselves and conduct (well maybe if you tolt the board at the right angle and never move it).
 
@@ -23,3 +25,5 @@ Even though I'm sure the alloy process it fine that's still like.. soldering :V
 Pretty complicated, I know.
 
 Unless I'm missing something, in which case tell me.
+
+Only thing I can think of is there's enough there but I've never seen that be the case :V
